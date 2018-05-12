@@ -1,0 +1,26 @@
+_repo: The-Development-of-Armor-piercing-Shells--With-Suggestions-for-Their-Improvement-_33535
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Zafra, Carlos
+    alias: Zafra, Carlos de
+    gutenberg_agent_id: '36458'
+    url: http://www.gutenberg.org/2009/agents/36458
+description: ''
+gutenberg_issued: '2010-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33535'
+  lccn: '16005433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Projectiles'
+- !lcc 'UF'
+title: The Development of Armor-piercing Shells (With Suggestions for Their Improvement)
+url: http://www.gutenberg.org/ebooks/33535
