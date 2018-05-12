@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36458'
     url: http://www.gutenberg.org/2009/agents/36458
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33535#The-Development-of-Armor-piercing-Shells--With-Suggestions-for-Their-Improvement-
 gutenberg_issued: '2010-08-25'
 gutenberg_type: Text
 identifiers:
